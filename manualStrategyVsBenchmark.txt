@@ -1,0 +1,101 @@
+
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = -0.12628856571233693, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.04896053873165138, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0009273458724962336, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.2564570174731897, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.01638420227067332, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0005874366570954563, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
+
+JPM from 2008-01-01 00:00:00 to 2009-12-31 00:00:00 :-
+Cumm Return manual = 0.22883776935803812, cumm return bm = -0.03792472171200867
+std daily Return manual = 0.013895548554491152, std daily return bm = 0.0174682829172862
+mean daily Return manual = 0.0005050617709253165, mean daily return bm = 7.507884207379057e-05
+
+JPM from 2010-01-01 00:00:00 to 2011-12-31 00:00:00 :-
+Cumm Return manual = 0.11848328908724204, cumm return bm = -0.13373509430708552
+std daily Return manual = 0.007072213849678839, std daily return bm = 0.008780735163340131
+mean daily Return manual = 0.0002475680090662631, mean daily return bm = -0.00024687819333894784
