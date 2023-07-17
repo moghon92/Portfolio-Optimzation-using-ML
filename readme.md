@@ -1,11 +1,3 @@
-﻿
-Project 8: STRATEGY EVALUATION
-
-Mohamed Ghoneim
-<mghoneim3@gatech.edu>
-
-
-
 1. # **INTRODUCION**
 In this report we compile together multiple learnings from the course, whereby we use technical indicators to develop a manual strategy that combines signals from 3 different indicators together to generate automated Longs, Short, Hold signals.
 
