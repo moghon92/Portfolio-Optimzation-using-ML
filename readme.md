@@ -1,7 +1,7 @@
 1. # **INTRODUCION**
-In this report we compile together multiple learnings from the course, whereby we use technical indicators to develop a manual strategy that combines signals from 3 different indicators together to generate automated Longs, Short, Hold signals.
+Make a manual trading strategy using technical indicators to develop a manual strategy that combines signals from 3 different indicators together to generate automated Longs, Short, Hold signals.
 
-We also implement a machine learning based strategy that uses a random forest ML model to make trading decisions. The ML model is trained on the same set of technical indicators that are used for manual strategy so that we can do an apple-to-apple comparison.
+Then implement a machine learning based strategy that uses a random forest ML model to make trading decisions. The ML model is trained on the same set of technical indicators that are used for manual strategy so that we can do an apple-to-apple comparison.
 
 The performance of manual strategy of JPM stock is tested over the in-sample period 01-01-2008 to 31-12-2009 against the random forest-based strategy against a benchmark buy and hold strategy. The hypothesis is that strategy learner will outperform manual learner and benchmark over in sample period due to its ability to tease out finer levels of details and capitalize on more trading opportunities. I also expect that manual strategy will outperform the benchmark over in-sample period and (hopefully) if it’s a good strategy it will also outperform on out of sample period (please see section 3 for results).
 
